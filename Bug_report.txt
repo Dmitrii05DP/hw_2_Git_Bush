@@ -1,0 +1,12 @@
+Defect_ID – Unique identification number for the defect.
+Defect Description – Detailed description of the Defect including information about the module in which Defect was found.
+Version – Version of the application in which defect was found.
+Steps – Detailed steps along with screenshots with which the developer can reproduce the defects.
+Date Raised – Date when the defect is raised
+Reference– where in you Provide reference to the documents like . requirements, design, architecture or maybe even screenshots of the error to help understand the defect
+Detected By – Name/ID of the tester who raised the defect
+Status – Status of the defect , more on this later
+Fixed by – Name/ID of the developer who fixed it
+Date Closed – Date when the defect is closed
+Severity which describes the impact of the defect on the application
+Priority which is related to defect fixing urgency. Severity Priority could be High/Medium/Low based on the impact urgency at which the defect should be fixed respectively
